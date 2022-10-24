@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **C, Vue, FastAPI**
 
-- 👨‍💻 Some of my projects are available at [https://scotthenshaw86.github.io/](https://scotthenshaw86.github.io/)
-
 - 💬 Ask me about **how to learn coding!**
 
 - 📫 Contact me at **scott.henshaw86@gmail.com**
 
-- ⚡ Fun fact **I'm a bit obsessed with Advent of Code**
+- ⚡ Fun fact - **I'm a bit obsessed with Advent of Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
