@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scott</h1>
 <h3 align="center">A passionate fullstack developer and coding instructor from the USA</h3>
 
-- 🌱 I’m currently learning **C, Vue, FastAPI**
+- 🌱 I’m currently learning **Django, RAG, AWS**
 
 - 💬 Ask me about **how to learn coding!**
 
